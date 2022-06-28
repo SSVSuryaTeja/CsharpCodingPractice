@@ -10,6 +10,7 @@ namespace HelloWorld
             Console.WriteLine("I have added this VS Code");
             Console.WriteLine("I am testing the Staging concept");
             Console.WriteLine("We are now in Command Line");
+            Console.WriteLine("I am testing Staging concept");
 
         }
     }
