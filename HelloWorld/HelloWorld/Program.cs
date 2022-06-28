@@ -7,6 +7,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!, This is my First Git Project");
+            Console.WriteLine("I have added this VS Code");
         }
     }
 }
