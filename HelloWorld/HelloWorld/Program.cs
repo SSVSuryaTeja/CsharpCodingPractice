@@ -13,6 +13,7 @@ namespace HelloWorld
             Console.WriteLine("I am testing Staging concept");
 			Console.WriteLine("I am testing Staging concept 2");
             Console.WriteLine("This is added in VS");
+            System.Console.WriteLine("I made a change from Github desktop");
         }
     }
 }
