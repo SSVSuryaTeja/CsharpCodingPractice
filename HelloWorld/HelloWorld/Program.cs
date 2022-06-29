@@ -6,7 +6,12 @@ namespace HelloWorld
     {
         public int add(int right, int left)
         { 
-            return left+ right;
+            return left + right;
+        }
+
+        public int subtract(int right, int left)
+        { 
+            return left - right;
         }
 
     }
