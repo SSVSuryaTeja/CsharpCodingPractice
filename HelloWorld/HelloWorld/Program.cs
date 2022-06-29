@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("I am testing the Staging concept");
             Console.WriteLine("We are now in Command Line");
             Console.WriteLine("I am testing Staging concept");
+			Console.WriteLine("I am testing Staging concept 2");
 
         }
     }
