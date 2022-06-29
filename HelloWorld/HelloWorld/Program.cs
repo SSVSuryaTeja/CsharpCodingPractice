@@ -2,6 +2,13 @@
 
 namespace HelloWorld
 {
+    public class Caliculator
+    {
+
+        
+    }
+
+
     internal class Program
     {
         static void Main(string[] args)
