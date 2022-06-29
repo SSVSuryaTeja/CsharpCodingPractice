@@ -4,6 +4,10 @@ namespace HelloWorld
 {
     public class Caliculator
     {
+        public int add(int right, int left)
+        { 
+            return left+ right;
+        }
 
     }
     internal class Program
